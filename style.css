@@ -3,9 +3,13 @@
 }
 
 body {
-    background-color: salmon;
+    background-color: rgb(227, 154, 146);
 }
 
 h1 {
-    background-color: rgb(156, 120, 98);
+    font-family: "Tahoma", "Arial", sans-serif;
+    font-size: 4em;
+    font-weight: 900;
+    text-align: center;
+    background-color: rgb(246, 72, 72);
 }
