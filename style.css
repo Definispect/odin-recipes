@@ -1,5 +1,6 @@
 * {
     margin: 0px;
+    padding: 0px;
 }
 
 body {
@@ -12,4 +13,13 @@ h1 {
     font-weight: 900;
     text-align: center;
     background-color: rgb(246, 72, 72);
+}
+
+.index-list {
+    list-style-type: none;
+    text-align: center;
+}
+
+.index-list > li {
+    background-color: orange;
 }
