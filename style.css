@@ -3,6 +3,8 @@
     padding: 0px;
 }
 
+
+
 body {
     background-color: rgb(227, 154, 146);
 }
@@ -12,6 +14,9 @@ h1 {
     font-size: 4em;
     font-weight: 900;
     text-align: center;
+}
+
+h1, #back-button{
     background-color: rgb(246, 72, 72);
 }
 
