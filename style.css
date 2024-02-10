@@ -14,6 +14,7 @@ h1 {
     font-size: 4em;
     font-weight: 900;
     text-align: center;
+    padding-bottom: 10px;
 }
 
 h1, #back-button{
@@ -25,6 +26,12 @@ h1, #back-button{
     text-align: center;
 }
 
-.index-list > li {
+.index-list {
     background-color: orange;
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+
+.index-list > li {
+    margin-bottom: 10px;
 }
