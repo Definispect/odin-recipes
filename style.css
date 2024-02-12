@@ -17,8 +17,27 @@ h1 {
     padding-bottom: 10px;
 }
 
+h2 {
+    padding-top: 1em;
+}
+h3 {
+    padding-top: 0.5em;
+}
+
 header {
     background-color: rgb(246, 72, 72);
+    margin-bottom: 3%;
+}
+
+footer {
+    background-color: darkred;
+    width: 100%;
+}
+
+main {
+    padding-left: 3%;
+    padding-right: 3%;
+    margin: auto;
 }
 
 #index-list {
@@ -27,8 +46,14 @@ header {
     background-color: orange;
     padding-top: 12px;
     padding-bottom: 5px;
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 40%;
+    padding: 5%;
 }
 
-.index-list > li {
-    margin-bottom: 10px;
+#index-list > li {
+    font-size: 2em;
+    margin-bottom: 20px;
 }
