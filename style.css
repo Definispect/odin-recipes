@@ -26,7 +26,6 @@ h3 {
 
 header {
     background-color: rgb(246, 72, 72);
-    margin-bottom: 3%;
 }
 
 footer {
@@ -35,8 +34,7 @@ footer {
 }
 
 main {
-    padding-left: 3%;
-    padding-right: 3%;
+    padding: 3%;
     margin: auto;
 }
 
@@ -44,12 +42,7 @@ main {
     list-style-type: none;
     text-align: center;
     background-color: orange;
-    padding-top: 12px;
-    padding-bottom: 5px;
-    margin-top: 5%;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-bottom: 40%;
+    margin: 5% 30% 40% 30%;
     padding: 5%;
 }
 
