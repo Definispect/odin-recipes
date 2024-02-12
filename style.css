@@ -1,14 +1,29 @@
+/*Apply to everything*/
 * {
     margin: 0px;
     padding: 0px;
 }
 
-
-
 body {
     background-color: rgb(227, 154, 146);
 }
 
+/*Page format styling*/
+header {
+    background-color: rgb(246, 72, 72);
+}
+
+main {
+    padding: 3%;
+    margin: auto;
+}
+
+footer {
+    background-color: darkred;
+    width: 100%;
+}
+
+/*Text styling*/
 h1 {
     font-family: "Tahoma", "Arial", sans-serif;
     font-size: 4em;
@@ -20,24 +35,16 @@ h1 {
 h2 {
     padding-top: 1em;
 }
+
 h3 {
     padding-top: 0.5em;
 }
 
-header {
-    background-color: rgb(246, 72, 72);
+img {
+    padding: 1%;
 }
 
-footer {
-    background-color: darkred;
-    width: 100%;
-}
-
-main {
-    padding: 3%;
-    margin: auto;
-}
-
+/*Specific styling*/
 #index-list {
     list-style-type: none;
     text-align: center;
@@ -49,8 +56,4 @@ main {
 #index-list > li {
     font-size: 2em;
     margin-bottom: 20px;
-}
-
-img {
-    padding: 1%;
 }
