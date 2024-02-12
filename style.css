@@ -21,12 +21,9 @@ header {
     background-color: rgb(246, 72, 72);
 }
 
-.index-list {
+#index-list {
     list-style-type: none;
     text-align: center;
-}
-
-.index-list {
     background-color: orange;
     padding-top: 12px;
     padding-bottom: 5px;
