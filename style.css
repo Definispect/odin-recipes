@@ -21,6 +21,8 @@ main {
 footer {
     background-color: darkred;
     width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 /*Text styling*/
