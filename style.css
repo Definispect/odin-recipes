@@ -43,6 +43,10 @@ h3 {
     padding-top: 0.5em;
 }
 
+img {
+    border: 10px solid #a13427;
+}
+
 /*Specific styling*/
 .display-img {
     display: block;
