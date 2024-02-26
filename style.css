@@ -50,6 +50,10 @@ h3 {
     
 }
 
+.final-img {
+    margin: 10px 0;
+}
+
 .index-list {
     list-style-type: none;
     text-align: center;
