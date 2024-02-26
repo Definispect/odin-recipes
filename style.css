@@ -47,7 +47,7 @@ img {
 }
 
 /*Specific styling*/
-#index-list {
+.index-list {
     list-style-type: none;
     text-align: center;
     background-color: orange;
@@ -55,7 +55,7 @@ img {
     padding: 5%;
 }
 
-#index-list > li {
+.index-list > li {
     font-size: 2em;
     margin-bottom: 20px;
 }
