@@ -43,13 +43,13 @@ h3 {
     padding-top: 0.5em;
 }
 
+/*Specific styling*/
 .display-img {
     display: block;
     margin: 0 auto;
     
 }
 
-/*Specific styling*/
 .index-list {
     list-style-type: none;
     text-align: center;
