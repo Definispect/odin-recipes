@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(227, 154, 146);
+    background-color: #c29161;
 }
 
 /*Page format styling*/
@@ -20,7 +20,7 @@ main {
 }
 
 footer {
-    background-color: darkred;
+    background-color: #090401;
     width: 100%;
     height: auto;
     padding: 20px auto;
@@ -57,12 +57,12 @@ h3 {
 .index-list {
     list-style-type: none;
     text-align: center;
-    background-color: orange;
+    background-color: #d4ccb3;
     box-sizing: border-box;
     width: 500px;
     margin: 0 auto;
     padding: 30px;
-    border: 10px solid brown;
+    border: 10px solid #a13427;
 }
 
 .index-list > li {
