@@ -15,8 +15,8 @@ header {
 }
 
 main {
-    padding: 28px 20%;
-    margin: auto;
+    margin: 28px 20%;
+    box-sizing: border-box;
 }
 
 footer {
