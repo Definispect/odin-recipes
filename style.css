@@ -15,7 +15,7 @@ header {
 }
 
 main {
-    padding: 28px;
+    padding: 28px 20%;
     margin: auto;
 }
 
@@ -28,7 +28,7 @@ footer {
 
 /*Text styling*/
 .title {
-    font-size: 4em;
+    font-size: 4.5em;
     font-weight: 900;
     text-align: center;
     padding: 10px;
@@ -36,12 +36,17 @@ footer {
 }
 
 h2 {
-    padding-top: 1em;
+    font-size: 3em;
+    margin: 40px auto;
+    text-align: center;
 }
 
 h3 {
-    padding-top: 0.5em;
+    font-size: 1.5em;
+    margin: 5px auto;
 }
+
+/*Other element styling*/
 
 img {
     border: 10px solid #a13427;
