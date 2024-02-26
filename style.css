@@ -43,7 +43,12 @@ h2 {
 
 h3 {
     font-size: 1.5em;
-    margin: 5px auto;
+    margin: 10px auto;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 15px auto;
 }
 
 /*Other element styling*/
@@ -68,6 +73,10 @@ img {
     padding: 30px;
     width: 500px;
     background-color: #d4ccb3;
+}
+
+li {
+    margin-bottom: 5px;
 }
 
 .index-list > li {
