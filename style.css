@@ -11,7 +11,6 @@ body {
 
 /*Page format styling*/
 header {
-    margin-bottom: 50px;
     height: 110px;
 }
 
@@ -23,12 +22,12 @@ main {
 footer {
     background-color: darkred;
     width: 100%;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    height: auto;
+    padding: 20px auto;
 }
 
 /*Text styling*/
-h1 {
+.title {
     font-size: 4em;
     font-weight: 900;
     text-align: center;
