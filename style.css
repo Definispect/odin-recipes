@@ -65,16 +65,26 @@ img {
 
 .index-list {
     list-style-type: none;
-    text-align: center;
-    background-color: #d4ccb3;
-    box-sizing: border-box;
-    width: 500px;
-    margin: 0 auto;
     padding: 30px;
-    border: 10px solid #a13427;
+    width: 500px;
+    background-color: #d4ccb3;
 }
 
 .index-list > li {
     font-size: 2em;
     margin-bottom: 20px;
+}
+
+.index-list, .cook-time {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border: 10px solid #a13427;
+}
+
+.cook-time {
+    width: 400px;
+    padding: 20px 0;
+    margin-top: 40px;
+    background-color: #d4ccb361;
 }
