@@ -15,7 +15,7 @@ header {
 }
 
 main {
-    margin: 28px 10%;
+    margin: 28px 15%;
     box-sizing: border-box;
 }
 
@@ -34,7 +34,7 @@ footer {
 
 /*Text styling*/
 .title {
-    font-size: 4.5em;
+    font-size: 5em;
     font-weight: 900;
     text-align: center;
     padding: 10px;
@@ -42,18 +42,18 @@ footer {
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 4em;
     margin: 40px auto;
     text-align: center;
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 3em;
     margin: 10px auto;
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 2em;
     margin: 15px auto;
     text-align: center;
 }
@@ -82,12 +82,13 @@ img {
 }
 
 li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
 }
 
 .index-list > li {
-    font-size: 2em;
     margin-bottom: 20px;
+    font-size: 2em;
 }
 
 .index-list, .cook-time {
@@ -98,7 +99,7 @@ li {
 }
 
 .cook-time {
-    width: 400px;
+    width: 475px;
     padding: 20px 0;
     margin-top: 40px;
     background-color: #9c771873;
