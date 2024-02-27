@@ -104,3 +104,12 @@ li {
     margin-top: 40px;
     background-color: #9c771873;
 }
+
+.button {
+    display: inline-block;
+    max-height: 110%;
+    max-width: 130%;
+    background-color: beige;
+    border: 3px solid darkslategray;
+    margin: 10px;
+}
