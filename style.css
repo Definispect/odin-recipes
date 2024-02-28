@@ -17,7 +17,7 @@ header {
 main {
     margin: 28px 15%;
     box-sizing: border-box;
-    border: 2px solid pink; /*Debugging*/
+    /* border: 2px solid pink; /*Debugging*/
     min-height: 80vh;
 }
 
@@ -85,6 +85,7 @@ li {
     list-style-type: none;
     padding: 30px;
     width: 500px;
+    height: 250px;
     background-color: #d4ccb3;
 }
 
@@ -120,6 +121,7 @@ li {
 .navbar {
     display: flex;
     justify-content: center;
-    align-content: center;
-    border: 2px solid blue; /*Debugging*/
+    align-items: center;
+    /* border: 2px solid blue; /*Debugging*/
+    height: 60vh;
 }
