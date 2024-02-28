@@ -17,6 +17,8 @@ header {
 main {
     margin: 28px 15%;
     box-sizing: border-box;
+    border: 2px solid pink; /*Debugging*/
+    min-height: 80vh;
 }
 
 .recipe {
@@ -119,4 +121,5 @@ li {
     display: flex;
     justify-content: center;
     align-content: center;
+    border: 2px solid blue; /*Debugging*/
 }
