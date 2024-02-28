@@ -74,16 +74,16 @@ img {
     margin: 10px auto;
 }
 
+li {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+
 .index-list {
     list-style-type: none;
     padding: 30px;
     width: 500px;
     background-color: #d4ccb3;
-}
-
-li {
-    margin-bottom: 10px;
-    font-size: 1.5em;
 }
 
 .index-list > li {
@@ -94,7 +94,6 @@ li {
 .index-list, .cook-time {
     text-align: center;
     box-sizing: border-box;
-    margin: 0 auto;
     border: 10px solid #a13427;
 }
 
@@ -112,4 +111,10 @@ li {
     background-color: beige;
     border: 3px solid darkslategray;
     margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
