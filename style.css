@@ -19,7 +19,7 @@ main {
     box-sizing: border-box;
 }
 
-main.recipe {
+.recipe {
     background-color: #d4ccb3;
     border: 10px solid #a13427;
     padding: 25px 5%;
