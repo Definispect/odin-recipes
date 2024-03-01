@@ -2,11 +2,19 @@
 * {
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
     font-family: "Tahoma", "Arial", sans-serif;
+}
+
+html,
+body {
+    min-height: 100vh;
 }
 
 body {
     background-color: #c29161;
+    display: flex;
+    flex-direction: column;
 }
 
 /*Page format styling*/
@@ -16,9 +24,7 @@ header {
 
 main {
     margin: 28px 15%;
-    box-sizing: border-box;
     /* border: 2px solid pink; /*Debugging*/
-    min-height: 80vh;
 }
 
 .recipe {
@@ -30,7 +36,11 @@ main {
 footer {
     background-color: #090401;
     width: 100%;
-    height: auto;
+    display: flex;
+    margin-top: auto;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 40px;
     padding: 20px auto;
 }
 
